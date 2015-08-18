@@ -1,6 +1,6 @@
 # EVELiveIntel - Live Intel Map for EVE Online
 
-## What is is ?
+## What is it ?
 An online map that centralize and visualize Intel knowledge (hostile players positions) in the game EVE Online.
 
 This knowledge consist of a status for every system:  
